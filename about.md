@@ -11,7 +11,7 @@ You can find the source code for the Jekyll new theme at: [github.com/jglovier/j
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
  -->
 
-欢迎来到这个（我希望）基本没有代码的博客。技术主题在[另一个博客]()里。
+欢迎来到这个（我希望）基本没有代码的博客。技术主题在[另一个博客](http://virgilming.github.io)里。
 
 这里的文可能涵盖任何非技术主题。
 至于这个名字，我想把最喜欢的音乐和饮品混调到一起，就这样。
