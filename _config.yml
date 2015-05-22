@@ -2,8 +2,8 @@
 title: 低频咖啡间
 description: | 
   Virgil Ming 写字的地方。
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "/LFCafe/" # the subpath of your site, e.g. /blog/
+url: "http://virgilming.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
